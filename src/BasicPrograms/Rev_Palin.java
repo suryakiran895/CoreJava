@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 class Rev_Palin
 {
 	public static void main(String args[])

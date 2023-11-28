@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 class RelOp
 {
 	public static void main(String args[])
@@ -5,8 +7,7 @@ class RelOp
 		int var1 = 20,var2 = 45, sum,pro;
 		sum = var1 + var2;	//20+45=65
 		pro = var1 * var2;	//20*45=900
-		System.out.println("65==900 "+(sum==pro));
-		System.out.print("65!=900 ");
+		System.out.println(sum==pro);
 		System.out.println(sum!=pro);
 		System.out.println(sum>=pro);
 		System.out.println(sum<=pro);

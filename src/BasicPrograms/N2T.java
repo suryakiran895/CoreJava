@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 import java.util.Scanner;
 class N2T	//i/p = 45 , o/p = four five	//14th FEB
 {
@@ -17,17 +19,18 @@ class N2T	//i/p = 45 , o/p = four five	//14th FEB
 			rem=rev%10;
 			switch(rem)
 			{
-				case 1 : System.out.println("ONE");	break;
-				case 2 : System.out.println("TWO");	break;
-				case 3 : System.out.println("THREE");	break;
-				case 4 : System.out.println("FOUR");	break;
-				case 5 : System.out.println("FIVE");	break;
-				case 6 : System.out.println("SIX");	break;
-				case 7 : System.out.println("SEVEN");	break;
-				case 8 : System.out.println("EIGHT");	break;
-				case 9 : System.out.println("NINE");	break;
-				default : System.out.println("ZERO");
+				case 1 : System.out.print("ONE");	break;
+				case 2 : System.out.print("TWO");	break;
+				case 3 : System.out.print("THREE");	break;
+				case 4 : System.out.print("FOUR");	break;
+				case 5 : System.out.print("FIVE");	break;
+				case 6 : System.out.print("SIX");	break;
+				case 7 : System.out.print("SEVEN");	break;
+				case 8 : System.out.print("EIGHT");	break;
+				case 9 : System.out.print("NINE");	break;
+				default : System.out.print("ZERO");
 			}
+			System.out.print(" ");
 		}
 	}
 }

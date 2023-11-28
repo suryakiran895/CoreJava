@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 class Pat1
 {
 	public static void main(String args[])

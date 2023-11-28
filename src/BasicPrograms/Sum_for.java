@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 class Sum_for
 {
 	public static void main(String args[])

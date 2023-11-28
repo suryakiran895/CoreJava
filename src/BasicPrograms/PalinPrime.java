@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 import java.util.Scanner;
 class PalinPrime		// Palindromic Prim Number if possible factorial.
 {
@@ -23,7 +25,6 @@ class PalinPrime		// Palindromic Prim Number if possible factorial.
 			if(number == rev)		//1==1
 			{
 				int Palin = rev;
-				//System.out.println(number);	//1
 				for(y=1;y<=number;y++)	//
 				{
 					if(number%y==0)
@@ -44,7 +45,6 @@ class PalinPrime		// Palindromic Prim Number if possible factorial.
 						fact=fact*z;	//1//2
 						sum=sum+fact;	//1//3
 					}
-					System.out.println(sum);
 				}
 			}
 			}

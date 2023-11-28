@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 import java.util.Scanner;
 /*
 class PalindromeNum

@@ -1,3 +1,4 @@
+package BasicPrograms;
 //Strong number 145 = 145 after 1!+4!+5!
 
 import java.util.Scanner;

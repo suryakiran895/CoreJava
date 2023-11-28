@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 class While
 {
 	public static void main(String args[])

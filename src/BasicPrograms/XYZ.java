@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 class  XYZ
 {
 	public static void main(String args[])

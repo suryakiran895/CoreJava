@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 class UL
 {
 	public static void main(String args[])
@@ -34,7 +36,7 @@ class UL2
 }
 
 
-class Student
+class Stu
 {
 	public static void main(String args[])
 	{

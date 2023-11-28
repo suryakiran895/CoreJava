@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 class Vote
 {
 	public static void main(String args[])

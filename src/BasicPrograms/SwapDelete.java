@@ -1,3 +1,4 @@
+package BasicPrograms;
 /* 					//D: Sat 4th Mar
 //swap the below numbers
 //input : 10 20 30 40 50 60 

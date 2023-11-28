@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 class Table5
 {
 	public static void main(String args[])
@@ -7,7 +9,7 @@ class Table5
 		{
 			//n++;
 			//System.out.println(y+" x "+n+" = "+ (result = result+y));
-			System.out.println(y+" x "+ x + " = " + (y*x)); 
+			System.out.println(y+"\tx\t "+ x + "\t=\t" + (y*x)); 
 			x++;
 		}
 	}

@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 import java.util.*;
 class Rev
 {
@@ -37,7 +39,7 @@ class Rev1
 	public static void main(String args[])
 	{
 		Scanner s = new Scanner(System.in);
-		System.out.println("Enter the Nmber");
+		System.out.println("Enter the Number");
 		int num = s.nextInt();
 		int rev=0;
 		while(num>0)	//while(num!=0)
@@ -55,7 +57,7 @@ class Rev2
 	public static void main(String args[])
 	{
 		Scanner s = new Scanner(System.in);
-		System.out.println("Enter the Nmber");
+		System.out.println("Enter the Number");
 		int num = s.nextInt();
 		StringBuffer sb = new StringBuffer(String.valueOf(num));
 		System.out.println("Reverse Number is "+ sb.reverse());
@@ -68,7 +70,7 @@ class Rev3
 	public static void main(String args[])
 	{
 		Scanner s = new Scanner(System.in);
-		System.out.println("Enter the Nmber");
+		System.out.println("Enter the Number");
 		int num = s.nextInt();
 		StringBuilder sb = new StringBuilder();
 		sb.append(num);

@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 import java.util.Scanner;
 class PalinRange		// Palindrom Range and sum of the all palindromes and find how many palindromes are there
 {

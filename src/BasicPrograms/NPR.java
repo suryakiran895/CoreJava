@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 class NPR
 {
 	public static void main(String args[])

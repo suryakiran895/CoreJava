@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 class VowCon
 {
 	public static void main(String args[])

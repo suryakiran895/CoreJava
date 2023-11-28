@@ -1,4 +1,5 @@
-					//Thu 16th Feb
+package BasicPrograms;
+//Thu 16th Feb
 /*
 
  *

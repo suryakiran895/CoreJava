@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 import java.util.Scanner;
 import java.util.Random; 
 
@@ -48,6 +50,6 @@ class RandomOtp
 		int num2 = sc.nextInt();
 		Random rm = new Random();
 		int otp = rm.nextInt(num1,num2);
-		System.out.println("your otp is " +otp);
+		System.out.println("your OTP is " +otp);
 	}
 }

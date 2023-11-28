@@ -1,3 +1,4 @@
+package BasicPrograms;
 //Find out area and perimeter of the rectangle.(area=l*b , perimeter=2(l+b))
 
 class AreaR

@@ -1,3 +1,4 @@
+package BasicPrograms;
 //Write a simple program on Simple Interest
 
 class SI
